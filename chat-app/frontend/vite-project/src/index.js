@@ -7,7 +7,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 import { Outlet } from "react-router-dom";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Home from "./components/Home.js";
+import Home from "./components/Home.";
 import Dashboard from "./components/Dashboard/Dashboard";
 import ChatState from "./context/appState";
 
