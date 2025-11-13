@@ -68,10 +68,10 @@ const Home = () => {
         mt={4}
         textAlign="center"
       >
-        &copy; 2024 Conversa. All rights reserved.
+        &copy; 2024 flashchat. All rights reserved.
         <Link to="https://github.com/gulshankartikk" target="_blank">
           <Text as="u" color="purple.500" ml={1}>
-            Pankil Soni
+            gulshankartikk
           </Text>
         </Link>
       </Text>
