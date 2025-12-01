@@ -29,7 +29,7 @@ const AuthPage = () => {
                             <input
                                 type="text"
                                 className="w-full px-4 py-3 rounded-lg bg-gray-800/50 border border-gray-700 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
-                                placeholder="John Doe"
+                                placeholder="Gulshan Kumar"
                             />
                         </div>
                     )}
@@ -39,7 +39,7 @@ const AuthPage = () => {
                         <input
                             type="email"
                             className="w-full px-4 py-3 rounded-lg bg-gray-800/50 border border-gray-700 text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
-                            placeholder="you@example.com"
+                            placeholder="kartik@gmail.com"
                         />
                     </div>
 
