@@ -46,7 +46,7 @@ const Home = () => {
       <Flex direction="column" align="center" justify="center" minH="80vh">
         <Box textAlign="center">
           <Text fontSize={"7xl"} fontWeight={"bold"} fontFamily={"Work sans"}>
-            Conversa
+            flashchat
           </Text>
           <Text fontSize="xl" fontWeight="bold" mb={4}>
             Online Chatting App
@@ -68,7 +68,7 @@ const Home = () => {
         mt={4}
         textAlign="center"
       >
-        &copy; 2024 flashchat. All rights reserved.
+        &copy; 2025 flashchat. All rights reserved.
         <Link to="https://github.com/gulshankartikk" target="_blank">
           <Text as="u" color="purple.500" ml={1}>
             gulshankartikk

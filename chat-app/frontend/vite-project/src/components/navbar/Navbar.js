@@ -73,7 +73,7 @@ const Navbar = (props) => {
         }}
       >
         <Flex justify={"space-between"}>
-          <Text fontSize="2xl">Conversa</Text>
+          <Text fontSize="2xl">flashchat</Text>
 
           <Box
             display={{ base: "none", md: "block" }}
